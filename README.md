@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou focado no meu aprendizado no curso de ***Desenvolvimento Web FullStack* pela *Cubos Academy***
 
-- 👨‍💻 Futuramente tenho interesse de me especializar em BackEnd e estudar algumas tecnologias como: **PHP,Python,SQL,AWS,entre outros.**
+- 👨‍💻 Futuramente tenho interesse de me especializar em BackEnd e estudar algumas tecnologias como: **PHP, Python, SQL, AWS, entre outros.**
 
 - 📫 Este é o meu e-mail pra contato: **osamueloliveira015@gmail.com**
 
