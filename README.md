@@ -1,5 +1,5 @@
 <h1 align="center">Olá! meu nome é Samuel Oliveira</h1>
-<h3 align="center">Um programador em desenvolvimento cheio de curiosidade e ansioso para aprender cada vez mais a respeito da área!</h3>
+<h3 align="center">Um programador cheio de curiosidade e ansioso para aprender cada vez mais a respeito da área!</h3>
 
 - 🌱 Atualmente estou focado no meu aprendizado no curso de ***Desenvolvimento Web FullStack* pela *Cubos Academy***
 
