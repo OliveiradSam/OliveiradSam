@@ -1,9 +1,9 @@
 <h1 align="center">Olá! meu nome é Samuel Oliveira</h1>
 <h3 align="center">Um programador cheio de curiosidade e ansioso para aprender cada vez mais a respeito da área!</h3>
 
-- 🌱 Atualmente estou focado no meu aprendizado no curso de ***Desenvolvimento Web FullStack* pela *Cubos Academy***
+- 🌱 Atualmente estou focado no meu aprendizado na Faculdade de ***Engenharia de Sofrtware* pela faculdade *Anhanguera***
 
-- 👨‍💻 Futuramente tenho interesse de me especializar em BackEnd e estudar algumas tecnologias como: **PHP, Python, SQL, AWS, entre outros.**
+- 👨‍💻 Tenho me especializado em BackEnd e estudado algumas tecnologias e linguagens como: **Golang, React Native, SQL, AWS, entre outros.**
 
 - 📫 Este é o meu e-mail pra contato: **osamueloliveira015@gmail.com**
 
