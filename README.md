@@ -5,10 +5,6 @@
 
 - 📫 Este é o meu e-mail para contato: **osamueloliveira015@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiradsam&show_icons=true&locale=en&layout=compact" alt="oliveiradsam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveiradsam&show_icons=true&locale=en" alt="oliveiradsam" /></p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/samuel-oliveira-45398b1a6/" target="_blank">
