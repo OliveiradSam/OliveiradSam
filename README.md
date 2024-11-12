@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Meu nome é Samuel Oliveira</h1>
 <h3 align="center">Desenvolvedor FullStack e Freelancer, graduando em Engenharia de Software</h3>
 
-   - 👨‍💻 Atuo como desenvolvedor e gestor de equipe, com uma forte especialização em Backend, além de gerenciar servidores e serviços. Meu foco está em transformar conceitos em soluções práticas e eficientes, utilizando tecnologias como Golang, React Native, SQL, AWS, Java, Docker, Kubernetes, Python, entre outras. Trabalho diariamente para aplicar essas ferramentas em projetos reais, contribuindo para a criação de sistemas robustos e escaláveis.
+   - 👨‍💻 Atuo como desenvolvedor, com uma forte especialização em Backend, além de gerenciar servidores e serviços. Meu foco está em transformar conceitos em soluções práticas e eficientes, utilizando tecnologias como Golang, React Native, SQL, AWS, Java, Docker, Kubernetes, Python, entre outras. Trabalho diariamente para aplicar essas ferramentas em projetos reais, contribuindo para a criação de sistemas robustos e escaláveis.
 
 - 📫 Este é o meu e-mail para contato: **osamueloliveira015@gmail.com**
 
